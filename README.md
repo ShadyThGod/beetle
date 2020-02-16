@@ -6,7 +6,7 @@ Beetle is a WebExtension which allows you to quickly grab logins from BugMeNot f
 
 ### ⬇ [Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/beetle/)
 
-### ⬇ [Download .zip file](https://github.com/ShadyThGod/beetle/releases/download/1.0.0/beetle.zip)
+### ⬇ [Download .zip file](https://github.com/amanharwara/beetle/releases/download/1.0.0/beetle.zip)
 
 ## Screenshots
 
@@ -27,7 +27,7 @@ Maybe, yes. You can expect to see this on the store by the end of this year or s
 
 If you're on a Windows system you can follow these steps:
 
-- Download the [chrome-install-windows.zip](https://github.com/ShadyThGod/beetle/raw/master/dist/chrome-install-windows.zip) file and unzip it to a folder.
+- Download the [chrome-install-windows.zip](https://github.com/amanharwara/beetle/raw/master/dist/chrome-install-windows.zip) file and unzip it to a folder.
   - Unzip it to a folder which you won't delete later, as the .crx file will need to stay in that exact place.
 - Right-click `install.ps1` and click "Run PowerShell Script"
   - If the option doesn't show up for you, you can [follow these instructions](https://stackoverflow.com/a/2035209) to run the script.
@@ -43,7 +43,7 @@ If you're on a Windows system you can follow these steps:
 
 If you don't want to go through all that hassle, you might want to try this:
 
-- Download the [beetle.zip](https://github.com/ShadyThGod/beetle/releases/download/1.0.0/beetle.zip) file and un-zip it to a folder which you won't delete.
+- Download the [beetle.zip](https://github.com/amanharwara/beetle/releases/download/1.0.0/beetle.zip) file and un-zip it to a folder which you won't delete.
 - Go to `chrome://extensions` in Chrome.
 - Enable `Developer Mode`.
 - Click on **_Load Unpacked_** and select the folder where you un-zipped the file.
